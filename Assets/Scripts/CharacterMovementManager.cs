@@ -6,7 +6,6 @@ public class CharacterMovementManager : MonoBehaviour
 {
    
     public VariableJoystick joystick;
-    //public CharacterController controller;
     public Rigidbody2D rb;
     public float movementSpeed;
 
